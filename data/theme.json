@@ -1,8 +1,8 @@
 {
-  "footer": "Copyright &copy; 2019",
-  "dark_mode": true,
+  "footer": "Built by @MarkGStacey",
+  "dark_mode": false,
   "site_name": "orca fit",
   "site_description": "",
-  "hero_title": "Simplicity. Aesthetics. Value.",
-  "hero_subtitle": "Hi there, I'm an independent Digital Designer &amp; Art Director focused on digital design for brands that like to have fun."
+  "hero_title": "Exercise knowledge base",
+  "hero_subtitle": "A knowledge base for exercises "
 }

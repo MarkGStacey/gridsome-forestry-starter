@@ -6,6 +6,6 @@ excerpt: Yada yada
 
 ---
 **_Test_**
-(Test)\[/sliders]
+(Test)\[/sliders\]
 
 ![](/uploads/cody-davis-253925-unsplash.jpg)

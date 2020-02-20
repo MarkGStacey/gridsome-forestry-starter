@@ -6,3 +6,4 @@ excerpt: Yada yada
 
 ---
 ***Test***
+(Test)[/sliders]
